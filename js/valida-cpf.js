@@ -1,10 +1,8 @@
 export default function ehUmCPF(campo) {
     const cpf = campo.value.replace(/\.|-/g,""); //removendo os caracters como - e .
     if (validaNumRep(cpf) || validaPrimeiroDigito(cpf) || validaSegundoDigito(cpf) ){
-        console.log("cpf inexistente");
-    } else {
-        console.log("cpf existente");
-    }
+        campo.setCustomValidity('Esse cpf não é valido');
+    } 
    
 }
 
