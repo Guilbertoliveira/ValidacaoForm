@@ -160,3 +160,16 @@
         margin: 2em;
     }
 }
+
+@media screen and (max-width: 480px) {
+    .formulario{
+        margin: 0;
+        width: 95%;
+    }
+
+    .banner{
+        height: 25%;
+    }
+
+    
+}
