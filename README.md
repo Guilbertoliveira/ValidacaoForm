@@ -1,12 +1,16 @@
 
 
-<h1>ValidacaoForm </h1>
+<div align="center"><h1>ValidacaoForm</h1>
+<img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/Guilbertoliveira/ValidacaoForm" />
+<img alt="Github License" src="https://img.shields.io/github/license/Guilbertoliveira/ValidacaoForm" />
+<img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/Guilbertoliveira/ValidacaoForm" />
+<img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/Guilbertoliveira/ValidacaoForm" /></div>
 
 <h2>:hammer:Project Status:hammer:</h2>
-<p>Under construction</p>
+<p>Completed project</p>
 
 <h2>Project description</h2>
-<p>A page focused on form validation and taking a picture of the user.</p>
+<p>A page focused on form validation and taking a photo of the user, an improvement was also made to the existing mobile designer.</p>
 
 <h2 >Version Mobile</h2>
 
