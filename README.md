@@ -16,6 +16,10 @@
 <img src="https://user-images.githubusercontent.com/41201436/229580774-a8a30187-0d03-4387-aff8-8d5fe7485fcb.gif">
 
 <h2>Version Desktop</h2>
+<img src="https://user-images.githubusercontent.com/41201436/229584133-f0a171a7-03cf-4ae5-8e0a-c48a9225a404.gif">
+
+<h2>MediaDevice taking photo</h2>
+<img src="">
 
 <h2>Technologies used</h2>
 <div>
@@ -28,3 +32,9 @@
     
 <h2> Project link </h2>
 <a href="https://validacao-form.vercel.app/">Link Vercel</a>
+
+
+
+
+
+
