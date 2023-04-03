@@ -145,3 +145,43 @@
         padding: 1em 0;
     }
 }
+
+
+@media screen and (max-width: 480px) {
+    .conta{
+        height: 60%;
+    }
+
+    .conta__container{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin: 20px 50px;
+    }
+
+    .conta__botao{
+        margin-bottom: 10px;
+        opacity: 70%;
+    }
+
+    .beneficios-lista{
+        display: flex;
+        flex-direction: column;
+        row-gap: 15px;
+    }
+
+    .beneficios__icone{
+        width: 55px;
+        height: 55px;
+    }
+
+    .beneficios-lista__titulo{
+        margin: 0;
+    }
+
+    .banner{
+        height: 50%;
+    }
+
+   
+}
