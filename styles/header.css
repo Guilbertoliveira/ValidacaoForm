@@ -72,3 +72,32 @@
         display: block;
     }
 }
+
+
+@media screen and (max-width: 480px) {
+    .cabecalho{
+        display: block;
+        margin: 1em;
+    }
+
+    .cabecalho__logo-inicio{
+        display: none;
+    }
+
+    .cabecalho-lista{
+        justify-content: space-evenly;
+        margin: 1em;
+        
+    }
+
+    .item-servicos__imagem {
+        width: 90vw;
+        margin-top: 10px;
+    }
+
+    .item-servicos__titulo{
+        width: 90vw;
+    }
+    
+}
+
