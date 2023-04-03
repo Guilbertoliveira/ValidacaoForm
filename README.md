@@ -19,7 +19,7 @@
 <img src="https://user-images.githubusercontent.com/41201436/229584133-f0a171a7-03cf-4ae5-8e0a-c48a9225a404.gif">
 
 <h2>MediaDevice taking photo</h2>
-<img src="">
+<img src="https://user-images.githubusercontent.com/41201436/229587376-44502176-0f86-4c9f-9069-ecc8297817f7.gif">
 
 <h2>Technologies used</h2>
 <div>
