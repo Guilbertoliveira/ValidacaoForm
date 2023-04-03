@@ -13,6 +13,7 @@
 <p>A page focused on form validation and taking a photo of the user, an improvement was also made to the existing mobile designer.</p>
 
 <h2 >Version Mobile</h2>
+<img src="https://user-images.githubusercontent.com/41201436/229580774-a8a30187-0d03-4387-aff8-8d5fe7485fcb.gif">
 
 <h2>Version Desktop</h2>
 
